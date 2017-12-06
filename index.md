@@ -39,6 +39,6 @@ A two player board game based off of player prediction
 * Worked with Designers to create an anti-cheating system so both players can play the game on the same computer
 * Implemented all the ui and game systems
 
-*Currently Under Development*
+*Currently Under Development for Mobile Platforms*
 
 [Download Here](https://github.com/Telden/Tile-Fall.git)
