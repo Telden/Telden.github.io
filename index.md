@@ -21,7 +21,7 @@ _Currently under development_
 This game's main mechanic inspired by the jam's theme of "transmission" has the player control the mars rover as it moves across the surface of the planet, but because of the weak connection between the player and the rover, the signal that you transmit to it is laggy. By making lag a central game mechanic, the player must be careful by not driving the rover down a cliffside and make it to the end of each level. The player may choose to "boost" the signal to reduce the lag, at the cost of using up more energy.
 
 
-_Picture Here_
+![Tile Fall Screencap](https://telden.github.io/images/OpportunityKnocks.png)
 
 
 
@@ -45,7 +45,7 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 A recreation of the first dungeon of Zelda using only C++
 
 
-![Tile Fall Screencap](https://raw.githubusercontent.com/Telden/Telden.github.io/946d6c5edbf29e126e50742e305dfdef35a0a53f/images/ZeldaCapture.PNG)
+![Tile Fall Screencap](https://telden.github.io/images/ZeldaCapture.PNG)
 
 [Download Here]
 
