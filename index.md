@@ -45,7 +45,7 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 A recreation of the first dungeon of Zelda using only C++
 
 
-[Zelda Screencap](https://telden.github.io/images/ZeldaCapture.png)
+![Zelda Screencap](https://telden.github.io/images/ZeldaCapture.png)
 
 [Download Here]
 
