@@ -30,26 +30,15 @@ _Picture Here_
 
 
 ## **Tile-Fall - (Unity 5, C#)**
-A two player board game based off of player prediction
+**PvP Strategy Game**  |  **(Unity 5, C#)**  |  **Team Size: 4**  |  **2017** 
+
+Tile-Fall can best be described as "Battleship, but you see the other player." Each player inputs their movement decisions at the same time and then guesses which spot the player moved to. After all these decisions are made, the game resolves and the players move to their chosen spots and fire upon the spot that they chose. If a player is hit, the player that predicted the position wins, otherwise the tile hit is destroyed and the player on that side cannot move onto it.
 
 ![Tile Fall Screencap](https://telden.github.io/images/Tilefallscreencap.png)
 
 
 [Download Here](https://github.com/Telden/Tile-Fall.git)
 
-
-
-
-
-## **Battle Beetles - (Unity 5, C#)**
-A 3D arena fighting game with small mechanized insects in large enviornments
-
-![Battle Beetles Screencap](https://telden.github.io/images/BattleBeetlesScreencap.png)
-
-
-*Currently Under Development*
-
-[Download Here](https://github.com/Telden/Battle-Beetles.git)
 
 
 ## **Zelda Dungeon Recreation - (C++)** 
