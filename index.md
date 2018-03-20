@@ -19,7 +19,7 @@ _Currently under development_
 This game's main mechanic inspired by the jam's theme of "transmission" has the player control the mars rover as it moves across the surface of the planet, but because of the weak connection between the player and the rover, the signal that you transmit to it is laggy. By making lag a central game mechanic, the player must be careful by not driving the rover down a cliffside and make it to the end of each level. The player may choose to "boost" the signal to reduce the lag, at the cost of using up more energy.
 
 
-![Tile Fall Screencap](https://media.giphy.com/media/OjI22jqHhPmpszPrBD/giphy.gif)
+![Tile Fall Screencap](https://media.giphy.com/media/SiJYIT5CxwITBRDcCv/giphy.gif)
 
 
 
