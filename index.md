@@ -41,6 +41,7 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 
 ## ** Battle Beetles- (Unity 5, C#)**
 **3D Fighter**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2017-2018** 
+Players play as small mech bettles and fight it out using their special abilities in large natural environments.
 
 ![Battle Beetles Gif](https://media.giphy.com/media/26mdR6Yd4qTvgq9pI1/giphy.gif)
 
@@ -51,6 +52,6 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 A recreation of the first dungeon of Zelda using only C++ and Allegro for the final project of Champlain College's Game Architecture course. Working alongside [Matthew Roy](https://www.linkedin.com/in/matthew-roy-4ba050154/), we implemented multiple different gaming patterns including a component system and a defined game loop.
 
 
-![Tile Fall Screencap](https://telden.github.io/images/ZeldaCapture.PNG)
+![Tile Fall Screencap](https://media.giphy.com/media/OjI22jqHhPmpszPrBD/giphy.gif)
 
 
