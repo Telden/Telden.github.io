@@ -39,7 +39,7 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 ![Tile Fall Screencap](https://telden.github.io/images/Tilefallscreencap.png)
 
 
-[Download Here](https://github.com/Telden/Tile-Fall.git)
+[Download Here](https://drive.google.com/file/d/1RMaQoPNHq_EggR_bJ-dGrhc2KXwAAGXE/view?usp=sharing)
 
 
 
