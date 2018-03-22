@@ -43,7 +43,7 @@ Tile-Fall can best be described as "Battleship, but you see the other player." E
 
 
 
-## ** Battle Beetles- (Unity 5, C#)**
+## **Battle Beetles- (Unity 5, C#)**
 **3D Fighter**  |  **(Unity 2017, C#)**  |  **Team Size: 4**  |  **2017-2018** 
 Players play as small mech bettles and fight it out using their special abilities in large natural environments.
 
