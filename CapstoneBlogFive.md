@@ -15,10 +15,15 @@ This Weeks Work - Starting On the AI
 
 Here the blue lines represent that the two nodes see each other and they are connected.
 
+![LineTest1](https://telden.github.io/images/BlueLine.PNG)
+
 Here the red lines mean that they tried to conncet, but the wall blocks their line of sight and therefore cannot connect.
 
+![LineTest2](https://telden.github.io/images/RedLine.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now that the nodes have made connections to one another, this has created the "node graph" within the world space. The next step is to create a way for the enemies to be able to use this node graph to move around. I originally was planning on making a A* or Dijkstra algorithm for the AI pathing, but I came up with something a lot better I think. I figured that having all the nodes make connections and all of the enemies AI doing the pathing durinig runtime would be too slow and may create system issues down the line. What if Evan wants to have a level that is just completely packed with enemies? All of these enemies doing pathing would create some sort of system slowdown at some point. So what I created was a custom editor window that would do a couple of things: It creates all of the connections between the nodes, and it contructs every possible path between these nodes automatically in the editor before the game is even ran. This happens all with a push of one button. The benefits of doing this is that this will support a lot of enemies if Evan wants to create levels packed full of them. Instead of having to do pathing algorithms, all the AI needs to do is have the start node (their current node) and the end node (the node the player is closest to). They give these two points to the grid graph and it will give them a premade set of instructions of the best path from where they are to the player which had been created already. The downsides I see with this system is that it trades memory consumption for speed of the AI, because the system needs to save the information of every path from each node possible, and the other is that this system currently does not support dynamically shifting levels, so the levels will have to be static for it to work. Evan says that currently he isn't planning on there being any dynamicly shifting levels for this semester's work, but it will have to be something that I will look into in the future.
 
 
 Here by clicking the button, the connections are made between the ndoes and best paths found all within the editor.
+
+![Demo Gif](https://media.giphy.com/media/EEwyZNDiF6pFX9eqgM/giphy.gif)
