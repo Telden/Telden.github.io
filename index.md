@@ -1,8 +1,6 @@
-# **Nicholas Robbins' Portfolio**
 
-
-
- [About Me](https://telden.github.io/AboutMe)
+ **[About Me](https://telden.github.io/AboutMe)**
+ ------
 
 ## **Eye Lasers - Game Maker's Toolkit Game Jam 2018**
 **Local Competitive**  |  **(Unity 2017, C#)**  |  **Team Size: 2**  |  **2018** 
